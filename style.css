@@ -1,0 +1,13 @@
+* {
+    font-family: Verdana, "Times New Roman", Arial;
+}
+
+.recipe_link {
+    font-size: 20px;
+    color: aqua;
+}
+
+.main_heading {
+    font-size: 30px;
+    color: bisque;
+}
